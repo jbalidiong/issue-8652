@@ -1,4 +1,4 @@
-#Steps to run the code
+# Steps to run the code
 
 Follow the guidelines for implementing [best practices for redirect authentication Option 1](https://firebase.google.com/docs/auth/web/redirect-best-practices#update-authdomain). Make sure you've added the custom domain on the Authorized JavaScript origins and redirect URIs in the GCP console.
 
